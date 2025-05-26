@@ -101,14 +101,12 @@
 
 <img align="right" height="150" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  />
 
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6531503070/6531503070/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6531503070/6531503070/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/6531503070/6531503070/output/github-snake.svg" />
 </picture>
+
+<br clear="both">
 
 ###
