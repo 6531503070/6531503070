@@ -1,4 +1,4 @@
-<h3 align="left">Hello people! 👋 Hi, I’m Bas~</h3>
+<h3 align="left">Hello people! 👋, I’m Bas~</h3>
 
 ###
 
