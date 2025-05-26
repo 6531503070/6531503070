@@ -103,7 +103,7 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6531503070/6531503070/output/github-snake-dark.svg" />
