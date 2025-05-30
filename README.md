@@ -1,22 +1,43 @@
-<h3 align="left">Hello people! 👋, I'm Bas~</h3>
+## Hello people! 👋, I'm Bas~
+
+**🎮 Roblox gamedev! (Luau/Lua) enthusiast!!! <br>**
+**🤖 AI enthusiast! <br>**
+📱 I also do some mobile and web applications but mainly focus on the [Luau](https://luau.org/) & [Roblox](http://roblox.com/) ecosystem!
+
+---
 
 ###
 
-<p align="left">Roblox gamedev! (Luau/Lua) enthusiast!!!<br>AI enthusiast!<br>and I also have some skill to do mobile & webapp but mainly focus luau & roblox ecosystem</p>
-
-###
+<p align="center">
+  <a href="https://www.roblox.com/users/1506230356/profile">
+    <img alt="Roblox" src="https://img.shields.io/badge/Roblox-Profile-red?logo=roblox">
+  </a>
+  <a href="https://github.com/6531503070">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github">
+  </a>
+  <a href="https://github.com/6531503070/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/dGnGNJjVLdwAAAAd/my-dress-up-darling-lets-go-to-the-beach.gif"  />
+  <a>
+    <img height="320" src="https://media1.tenor.com/m/dGnGNJjVLdwAAAAd/my-dress-up-darling-lets-go-to-the-beach.gif"  />
+  </a>
+  <a href="https://www.youtube.com/watch?v=3_1DCp3ZyT4">
+    <img height="320" src="https://i.makeagif.com/media/5-30-2025/ys2mst.gif"  />
+  </a>
 </div>
 
 ###
 
+<!-- Github Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6531503070&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=6531503070&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=6531503070&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=6531503070&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<!-- Github Snake Game -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6531503070/6531503070/output/github-snake-dark.svg" />
@@ -25,14 +46,29 @@
   </picture>
 </div>
 
-###
+## **My Knowledge & Skills to Language Technologies, and Tools**:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,luau,lua,flutter,dart,ts,js,java,cs,rust,python,html,css,md,opensource,git,github,githubactions,json,yaml,docker,n8n,npm,nodejs,terminal,powershell,warp,cursor,vscode,neovim,githubcopilot,chatgpt,claude,deepseek,ollama,huggingface,stackoverflow,api,graphql,postman,insomnia,firebase,heroku,desmos,figma,canva,powerpoint,excel,word,notion,prettier,android,androidstudio,spring,vercel,nextjs,vite,storybook,tailwind,styledcomponents,bootstrap,materialui,skeletonui,daisyui,chartjs,jwt,strapi,payload,stripe,ethereum,solana,uniswap,authenticator,firefox,chrome,youtube,discord,twitch,instagram,facebook&perline=20&titles=true&theme=light)
+![Techstack](https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,luau,lua,flutter,dart,ts,js,java,cs,rust,python,html,css,md,opensource,git,github,githubactions,json,yaml,docker,n8n,npm,nodejs,terminal,powershell,warp,cursor,vscode,neovim,githubcopilot,chatgpt,claude,deepseek,ollama,huggingface,stackoverflow,api,graphql,postman,insomnia,firebase,heroku,desmos,figma,canva,powerpoint,excel,word,notion,prettier,android,androidstudio,spring,vercel,nextjs,vite,storybook,tailwind,styledcomponents,bootstrap,materialui,skeletonui,daisyui,chartjs,jwt,strapi,payload,stripe,ethereum,solana,uniswap,authenticator,firefox,chrome,youtube,discord,twitch,instagram,facebook&perline=20&titles=true&theme=light)
 
-###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  />
-
-<br clear="both">
+---
 
 ###
+
+<div align="center">
+  <img align="right" height="160" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  />
+</div>
+
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://tthn.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://tthn.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
+    />
+    <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
+  </picture>
+</a>
