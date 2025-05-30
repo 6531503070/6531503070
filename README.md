@@ -15,18 +15,18 @@
   <a href="https://github.com/6531503070">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github">
   </a>
-  <a href="https://github.com/6531503070/awesome-github-profile-readme">
+  <!-- <a href="https://github.com/6531503070/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+  </a> -->
 </p>
 
 <div align="center">
   <!-- <a>
     <img height="320" src="https://media1.tenor.com/m/dGnGNJjVLdwAAAAd/my-dress-up-darling-lets-go-to-the-beach.gif"  />
   </a> -->
-  <a href="https://www.youtube.com/watch?v=3_1DCp3ZyT4">
+  <!-- <a href="https://www.youtube.com/watch?v=3_1DCp3ZyT4"> -->
     <img height="320" src="https://i.makeagif.com/media/5-30-2025/ys2mst.gif"  />
-  </a>
+  <!-- </a> -->
 </div>
 
 ###
@@ -59,7 +59,7 @@
   <img align="right" height="160" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  />
 </div>
 
-<a href="https://github.com/tthn0/Spotify-Readme">
+<!-- <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
@@ -71,4 +71,4 @@
     />
     <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
   </picture>
-</a>
+</a> -->
