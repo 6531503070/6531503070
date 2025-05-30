@@ -59,16 +59,4 @@
   <img align="right" height="160" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  />
 </div>
 
-<!-- <a href="https://github.com/tthn0/Spotify-Readme">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://tthn.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://tthn.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
-    />
-    <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
-  </picture>
-</a> -->
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31siowccgtdfclmlgbgfl4u2bcee&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31siowccgtdfclmlgbgfl4u2bcee&redirect=true)
