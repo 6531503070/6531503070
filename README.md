@@ -21,9 +21,9 @@
 </p>
 
 <div align="center">
-  <a>
+  <!-- <a>
     <img height="320" src="https://media1.tenor.com/m/dGnGNJjVLdwAAAAd/my-dress-up-darling-lets-go-to-the-beach.gif"  />
-  </a>
+  </a> -->
   <a href="https://www.youtube.com/watch?v=3_1DCp3ZyT4">
     <img height="320" src="https://i.makeagif.com/media/5-30-2025/ys2mst.gif"  />
   </a>
