@@ -25,16 +25,14 @@
     <img height="320" src="https://media1.tenor.com/m/dGnGNJjVLdwAAAAd/my-dress-up-darling-lets-go-to-the-beach.gif"  />
   </a> -->
   <a href="https://www.youtube.com/watch?v=3_1DCp3ZyT4">
-    <img height="500" src="assets/thx4warning.gif"  />
+    <img height="450" src="assets/thx4warning.gif"  />
   </a>
 </div>
 
-###
-
 <!-- Github Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6531503070&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=6531503070&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=6531503070&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="185" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=6531503070&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="185" alt="languages graph"  />
 </div>
 
 <!-- Github Snake Game -->
