@@ -1,0 +1,21 @@
+{
+    "editor.formatOnSave": true,
+
+    // markdownlint
+    "editor.codeActionsOnSave": {
+        "source.fixAll.markdownlint": "always"
+    },
+    "markdownlint.customRules": [
+        "no-hard-tabs",
+    ],
+
+    // Glassit
+    "glassit.alpha": 240,
+    "glassit.step": 100,
+    "glassit.force_sway": true,
+
+    // prettier
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
