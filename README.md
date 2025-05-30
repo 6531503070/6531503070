@@ -1,12 +1,10 @@
-### Hello people! 👋, I'm Bas~
-
-<hr style="height: 1px; border: none; background: linear-gradient(90deg, #00c3ff, #ee0979); margin: 12px 0;">
+## Hello people! 👋, I'm Bas~
 
 **🎮 Roblox gamedev! (Luau/Lua) enthusiast!!! <br>**
 **🤖 AI enthusiast! <br>**
 📱 I also do some mobile and web applications but mainly focus on the [Luau](https://luau.org/) & [Roblox](http://roblox.com/) ecosystem!
 
-<hr style="height: 1px; border: none; background: linear-gradient(-90deg, #00c3ff, #ee0979); margin: -8px 0;">
+---
 
 ###
 
@@ -46,13 +44,12 @@
   </picture>
 </div>
 
-### My Knowledge & Skills to Language Technologies, and Tools
-
-<hr style="height: 1px; border: none; background: linear-gradient(90deg, #00c3ff, #ee0979); margin: 12px 0;">
+## **My Knowledge & Skills to Language Technologies, and Tools**:
 
 ![Techstack](https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,luau,lua,flutter,dart,ts,js,java,cs,rust,python,html,css,md,opensource,git,github,githubactions,json,yaml,docker,n8n,npm,nodejs,terminal,powershell,warp,cursor,vscode,neovim,githubcopilot,chatgpt,claude,deepseek,ollama,huggingface,stackoverflow,api,graphql,postman,insomnia,firebase,heroku,desmos,figma,canva,powerpoint,excel,word,notion,prettier,android,androidstudio,spring,vercel,nextjs,vite,storybook,tailwind,styledcomponents,bootstrap,materialui,skeletonui,daisyui,chartjs,jwt,strapi,payload,stripe,ethereum,solana,uniswap,authenticator,firefox,chrome,youtube,discord,twitch,instagram,facebook&perline=20&titles=true&theme=light)
 
-<hr style="height: 1px; border: none; background: linear-gradient(-90deg, #00c3ff, #ee0979); margin: -8px 0;">
+
+---
 
 ###
 
