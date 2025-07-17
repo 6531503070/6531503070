@@ -20,14 +20,14 @@
   </a> -->
 </p>
 
-<div align="center">
+<div align="center" style="width: 100%; max-width: 1200px; margin: 0 auto;">
   <!-- <a>
     <img height="320" src="https://media1.tenor.com/m/dGnGNJjVLdwAAAAd/my-dress-up-darling-lets-go-to-the-beach.gif"  />
   </a> -->
   <a href="https://www.youtube.com/watch?v=3_1DCp3ZyT4">
-    <img height="150" src="assets/thx4warning.gif"  />
+    <img height="225" src="assets/thx4warning.gif"  />
   </a>
-  <img height="150" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  />
+  <img height="225" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  />
 </div>
 
 <!-- Github Stats -->
