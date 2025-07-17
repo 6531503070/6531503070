@@ -57,6 +57,6 @@
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31siowccgtdfclmlgbgfl4u2bcee&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31siowccgtdfclmlgbgfl4u2bcee&redirect=true)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31siowccgtdfclmlgbgfl4u2bcee)
+![Spotify-Recently-Played](https://spotify-recently-played-readme.vercel.app/api?user=31siowccgtdfclmlgbgfl4u2bcee&width=300&count=6&unique=true)
 
 </div>
