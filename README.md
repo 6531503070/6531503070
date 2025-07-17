@@ -25,9 +25,9 @@
     <img height="320" src="https://media1.tenor.com/m/dGnGNJjVLdwAAAAd/my-dress-up-darling-lets-go-to-the-beach.gif"  />
   </a> -->
   <a href="https://www.youtube.com/watch?v=3_1DCp3ZyT4">
-    <img height="240" src="assets/thx4warning.gif"  />
+    <img src="assets/thx4warning.gif"  />
   </a>
-  <img height="240" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  />
+  <img height="180" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  />
 </div>
 
 <!-- Github Stats -->
