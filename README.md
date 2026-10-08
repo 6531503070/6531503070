@@ -1,7 +1,7 @@
 ## Hello people! 👋, I'm Bas~
 
-🎮 I build Roblox games in Luau, mostly for fun and to learn. <br>
 🤖 I like trying new AI tools and automating the boring parts. <br>
+🎮 I build Roblox games in Luau, mostly for fun and to learn. <br>
 📱 I also make web and mobile apps when a project needs one.
 
 ---
