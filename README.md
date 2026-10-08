@@ -47,16 +47,6 @@
 
 ## **My Knowledge & Skills to Language Technologies, and Tools**:
 
-![Techstack](https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,luau,lua,flutter,dart,ts,js,java,cs,rust,python,html,css,md,opensource,git,github,githubactions,json,yaml,docker,n8n,npm,nodejs,terminal,powershell,warp,cursor,vscode,neovim,githubcopilot,chatgpt,claude,deepseek,ollama,huggingface,stackoverflow,api,graphql,postman,insomnia,firebase,heroku,desmos,figma,canva,powerpoint,excel,word,notion,prettier,android,androidstudio,spring,vercel,nextjs,vite,storybook,tailwind,styledcomponents,bootstrap,materialui,skeletonui,daisyui,chartjs,jwt,strapi,payload,stripe,ethereum,solana,uniswap,authenticator,firefox,chrome,youtube,discord,twitch,instagram,facebook&perline=20&titles=true&theme=light)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,ts,js,nodejs,react,nextjs,tailwind,flutter,dart,java,spring,cs,luau&perline=13&titles=true&theme=light)
 
----
-
-###
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31siowccgtdfclmlgbgfl4u2bcee&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31siowccgtdfclmlgbgfl4u2bcee&redirect=true)
-
-![Spotify-Recently-Played](https://spotify-recently-played-readme.vercel.app/api?user=31siowccgtdfclmlgbgfl4u2bcee&width=300&count=6&unique=true)
-
-</div>
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,chatgpt,n8n,git,github,docker,postman,vscode,androidstudio,figma,strapi&perline=13&titles=true&theme=light)
