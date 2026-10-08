@@ -1,8 +1,8 @@
 ## Hello people! 👋, I'm Bas~
 
-🎮 Roblox game dev (Luau) <br>
-🤖 AI tools and automation <br>
-📱 Web and mobile apps
+🎮 I build Roblox games in Luau, mostly for fun and to learn. <br>
+🤖 I like trying new AI tools and automating the boring parts. <br>
+📱 I also make web and mobile apps when a project needs one.
 
 ---
 
@@ -24,10 +24,10 @@
   <!-- <a>
     <img height="320" src="https://media1.tenor.com/m/dGnGNJjVLdwAAAAd/my-dress-up-darling-lets-go-to-the-beach.gif"  />
   </a> -->
-  <a href="https://www.youtube.com/watch?v=3_1DCp3ZyT4">
+  <!-- <a href="https://www.youtube.com/watch?v=3_1DCp3ZyT4">
     <img src="assets/thx4warning.gif"  />
-  </a>
-  <img height="180" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  />
+  </a> -->
+  <!-- <img height="180" src="https://media1.tenor.com/m/oFAVVondXWkAAAAC/tagg.gif"  /> -->
 </div>
 
 <!-- Github Stats -->
