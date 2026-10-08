@@ -32,8 +32,8 @@
 
 <!-- Github Stats -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=6531503070&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="185" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=6531503070&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=radical&hide_border=false" height="185" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/6531503070/6531503070/output/stats.svg" height="185" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/6531503070/6531503070/output/top-langs.svg" height="185" alt="languages graph"  />
 </div>
 
 <!-- Github Snake Game -->
