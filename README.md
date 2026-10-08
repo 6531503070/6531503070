@@ -47,6 +47,8 @@
 
 ## **My Knowledge & Skills to Language Technologies, and Tools**:
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,luau,python,ts,js,nodejs,react,nextjs,tailwind,flutter,dart,java,spring,csi=python,ts,js,nodejs,react,nextjs,tailwind,flutter,dart,java,spring,cs,luau&perline=13perline=14&titles=true&theme=light)
-
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,chatgpt,n8n,git,github,docker,postman,vscode,androidstudio,figma,strapi&perline=13&titles=true&theme=light)
+<p>
+  <img alt="Languages" height="40" src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,luau,python,ts,js,nodejs,react,nextjs,tailwind,flutter,dart,java,spring,csi=python,ts,js,nodejs,react,nextjs,tailwind,flutter,dart,java,spring,cs,luau&perline=13perline=14&theme=light" />
+  <br />
+  <img alt="Tools" height="40" src="https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,chatgpt,n8n,git,github,docker,postman,vscode,androidstudio,figma,strapi&perline=13&theme=light" />
+</p>
