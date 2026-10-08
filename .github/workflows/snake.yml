@@ -20,7 +20,7 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
-      # Step 2: Generate the stats cards before snk, whose Docker step leaves dist/ root-owned
+      # Step 2: Generate the stats cards for 6531503070 and itzbbbbas before snk, whose Docker step leaves dist/ root-owned
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
@@ -37,6 +37,22 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+      - name: Generate itzbbbbas stats card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=itzbbbbas&hide_rank=true&show_icons=true&include_all_commits=true&theme=radical
+          path: dist/itzbbbbas-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Generate itzbbbbas top languages card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: username=itzbbbbas&layout=compact&card_width=280&langs_count=5&theme=radical
+          path: dist/itzbbbbas-top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
       # Step 3: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
@@ -48,6 +64,15 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate itzbbbbas snake animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: itzbbbbas
+          outputs: |
+            dist/itzbbbbas-snake.svg
+            dist/itzbbbbas-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 4: Deploy the generated files to the 'output' branch
