@@ -20,20 +20,7 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
-      # Step 2: Generate the snake animations
-      - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
-        with:
-          # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
-          # Define the output files and their configurations
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # Step 3: Generate the stats cards (replaces the rate-limited public Vercel instance)
+      # Step 2: Generate the stats cards before snk, whose Docker step leaves dist/ root-owned
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
@@ -50,6 +37,19 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+      # Step 3: Generate the snake animations
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
+        with:
+          # GitHub username to generate the animation for
+          github_user_name: ${{ github.repository_owner }}
+          # Define the output files and their configurations
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 4: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
